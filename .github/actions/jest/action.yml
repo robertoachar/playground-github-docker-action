@@ -1,0 +1,5 @@
+name: "Jest"
+description: "Run Tests"
+runs:
+  using: "docker"
+  image: "Dockerfile"
